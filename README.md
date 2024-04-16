@@ -10,7 +10,7 @@
 
 ## 📌 Some of My Projects:
 
-* 🚗 [Aware Driving](https://ankandrew.github.io/aware-driving): App I created to alert drowsy and distracted drivers using ML. Trained with PyTorch and deployed with NCNN. 📲 Available on Google Play.
-* 📸 F[ast Plate OCR](https://github.com/ankandrew/fast-plate-ocr): Fast and effective License plate text recognition. 🧠 Built with Keras 3, enabling flexible backend options like TensorFlow, JAX, or PyTorch.
-* 🔍 [ConvALPR](https://github.com/ankandrew/ConvALPR): Detects and recognize vehicle license plates and uses above OCR. ✨ Powered by TensorFlow!
-* 📊 [Online Label Smoothing](https://github.com/ankandrew/online-label-smoothing-pt): Pytorch implementation of Online Label Smoothing (OLS) presented in [_**Delving Deep into Label Smoothing**_](https://arxiv.org/abs/2011.12562).
+* 🚗 [Aware Driving](https://ankandrew.github.io/aware-driving): I created this **app** to **alert** drowsy and distracted **drivers** using ML. Trained with **PyTorch** and deployed with **NCNN**. 📲 Available on Google Play.
+* 📸 F[ast Plate OCR](https://github.com/ankandrew/fast-plate-ocr): Fast and effective License plate text recognition. 🧠 Built with **Keras 3**, enabling flexible backend options like **TensorFlow**, **JAX**, or **PyTorch**.
+* 🔍 [ConvALPR](https://github.com/ankandrew/ConvALPR): Detects and recognize vehicle license plates and uses above OCR. ✨ Powered by **TensorFlow**!
+* 📊 [Online Label Smoothing](https://github.com/ankandrew/online-label-smoothing-pt): **Pytorch** implementation of Online Label Smoothing (OLS) presented in this [paper](https://arxiv.org/abs/2011.12562).
